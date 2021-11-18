@@ -2,8 +2,8 @@ import React from 'react';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello World!</h1>
+    <div className="flex justify-center h-screen">
+      <h1 className="my-auto text-5xl">Hello World!</h1>
     </div>
   );
 }
